@@ -10,3 +10,9 @@ RentEase is a responsive web-based platform that connects boarding house seekers
 - **For Tenants:** Search boarding houses via Google Maps, view listings, send inquiries, reserve rooms, track payments
 - **For Landlords:** Post and manage properties, handle inquiries/reservations, monitor tenant payments
 - **For Administrators:** Manage users, content, and generate reports through Directus CMS
+
+## Technologies Used
+- HTML5, CSS3, JavaScript
+- Directus CMS
+- Google Maps API
+- MySQL Database
