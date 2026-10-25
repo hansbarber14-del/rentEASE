@@ -1,1 +1,2 @@
 - Footer section added
+- Social media links added to footer
