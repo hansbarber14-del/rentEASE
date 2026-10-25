@@ -1,13 +1,12 @@
-# ITE311 Final Project
+# RentEase: A Web-Based Boarding House Rental and Tenant Management System with Directus CMS and Google Maps Integration
 
-**Student Name:** Aubrey Corpuz
+**Student Names:** Aubrey Corpuz, [Add Members Here]
 **Course and Section:** BSIT III-F2
 
 ## Project Description
-This repository contains our Git and GitHub practice activities. It demonstrates creating branches, making commits, and pushing changes to a remote repository.
+RentEase is a responsive web-based platform that connects boarding house seekers with landlords in one place. Tenants can search verified listings on an interactive map, send inquiries, reserve rooms, and track their rent payments. Landlords can post properties, manage reservations, and monitor tenant payments, while administrators manage content, users, and reports through a Directus CMS panel. The system uses Google Maps for location and directions, secure role-based authentication, and a relational database. It earns revenue through landlord subscription plans, featured listing fees, and small reservation fees.
 
-## Branches
-- **main** — main production branch
-- **feature/header** — header section updates
-- **feature/footer** — footer section updates
-- **feature/styles** — styling and responsive design
+## Key Features
+- **For Tenants:** Search boarding houses via Google Maps, view listings, send inquiries, reserve rooms, track payments
+- **For Landlords:** Post and manage properties, handle inquiries/reservations, monitor tenant payments
+- **For Administrators:** Manage users, content, and generate reports through Directus CMS
