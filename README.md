@@ -1,6 +1,6 @@
 # RentEase: A Web-Based Boarding House Rental and Tenant Management System with Directus CMS and Google Maps Integration
 
-**Student Names:** Aubrey Corpuz, [Add Members Here]
+**Student Names:** Aubrey Corpuz, [Barber, Hans]
 **Course and Section:** BSIT III-F2
 
 ## Project Description
